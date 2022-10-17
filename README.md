@@ -1,6 +1,6 @@
 # Project Instructions
 
-Follow the instructions here: https://vuxcode.netlify.app/2022vt/we1/lessons/major-project-brief/
+Follow the instructions here: https://vuxcode.netlify.app/new/we1/lessons/major-project-brief/
 
 The aim of the project is to show how you have developed your website, the steps you have taken and the problems you have solved!
 

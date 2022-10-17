@@ -4,5 +4,5 @@
 
 For example: 
 
-- 2022-03-31 13:00 Worked for 1 hour.
+- 2022-10-25 13:00 Worked for 1 hour.
   - *List the things you have done.*
